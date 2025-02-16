@@ -1,6 +1,6 @@
 # Glide - Flagyard CTF Walkthrough
 
-This is a walkthrough for solving the **Shuffler** challenge from the **Flagyard CTF**. The challenge involves reversing a custom encryption process to retrieve the original input that satisfies the conditions.
+This is a walkthrough for solving the **Glide** challenge from the **Flagyard CTF**. The challenge involves reversing a custom encryption process to retrieve the original input that satisfies the conditions.
 
 ## Challenge Description
 ### Ice skating? Slide!
